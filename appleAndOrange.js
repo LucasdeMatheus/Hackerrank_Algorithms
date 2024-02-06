@@ -22,4 +22,4 @@ function countApplesAndOranges(s, t, a, b, apples, oranges) {
     console.log(qntdApples)
     console.log(qntdOranges)
 }
-console.log(countApplesAndOranges(7, 11, 5, 15, [-2, 2, 1], [5, -6]))
+console.log(countApplesAndOranges(7, 11, 5, 15, [-2, 2, 1], [5, -6]))output=1 1
